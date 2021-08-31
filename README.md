@@ -5,7 +5,7 @@
    IPTV can run on a variety of different devices, such as televisions, computers, mobile phones, tablets, etc.
 The Windows, Linux, Android、IOS and other operating systems carried by the device have well-supported software that allows users to easily use IPTV services.
 The following table is a list of common software and service provision methods corresponding to each operating system:
-| device | Operating System | Application Software | How to Obtain Application Software |
+| device | Operating System | Program | How to Obtain Application Software |
 | --- | --- | --- | --- |
 |TV|Android|IPTV Smarts (username, password, service URL), GES IPTV (M3U format URL), etc.|1. After downloading from the general network, install it into the device and use it<br>2. Search for the relevant software on the Google market and install it after downloading Ready to use|
 |TV|IOS|IPTV Smarts (username, password, service URL), GES IPTV (M3U format URL), etc.|Search the Apple store for related software, download it and install it for use|
