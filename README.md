@@ -11,8 +11,8 @@ The following table is a list of common software and service provision methods c
 |TV|IOS|IPTV Smarts (username, password, service URL), GES IPTV (M3U format URL), etc.|Search the Apple store for related software, download it and install it for use|
 |Computer|Windows, Linux|VLC (M3U format URL), Potplayer (M3U format URL), etc.|1. Install after downloading from ordinary network|
 |Computer|MAC|IPTV Smarts (username, password, service URL), GES IPTV (M3U format URL), etc.|1. After downloading from the common network, install it into the device and use it<br>2. Search the Apple store for related software and install it after downloading Ready to use|
-|Tablet PC|Windows, Linux|VLC (M3U format URL), Potplayer (M3U format URL), etc.|General network download and install|
-|Tablet PC|MAC|VLC (M3U format URL), Potplayer (M3U format URL), etc.|Search the Apple store for related software, download it, install it, and use it|
+|Tablet|Windows, Linux|VLC (M3U format URL), Potplayer (M3U format URL), etc.|General network download and install|
+|Tablet|MAC|VLC (M3U format URL), Potplayer (M3U format URL), etc.|Search the Apple store for related software, download it, install it, and use it|
 |Mobile|Android|IPTV Smarts (username, password, service URL), GES IPTV (M3U format URL), etc.|Google market search related software download and install it to use|
 |Mobile|IOS|IPTV Smarts (username, password, service URL), GES IPTV (M3U format URL), etc.|Search the Apple store for related software, download it and install it for use|
 
