@@ -19,4 +19,4 @@ The following table is a list of common software and service provision methods c
 
 # Service Content
    As an interactive service technology media, IPTV usually provides rich content to users.<br/>
-   For example, SEEIPTV.CC provides more than 60,000 media content for users to watch.
+   For example, ![SEEIPTV.CC](https://www.seeiptv.cc) provides more than 60,000 media content for users to watch.
